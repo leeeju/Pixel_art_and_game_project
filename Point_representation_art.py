@@ -7,7 +7,7 @@ class MyCanvas(QWidget):
     def __init__(self):
         super().__init__()
         self.setGeometry(100, 100, 500, 500) # 위치와 크기 설정
-        self.setWindowTitle('My Canvas')
+        self.setWindowTitle('My_Canvas')
         self.show()
 
     def paintEvent(self, event):
