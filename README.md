@@ -1,1 +1,1 @@
-# Pixel-art-project
+# Pixel_art_project
