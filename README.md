@@ -1,4 +1,4 @@
-# Pixel_art_project 
+# Pixel_art_and_game_project
 
 ### 프로젝트기간 : 2023. 02. 01 ~ 2023. 04. 01
 
@@ -51,3 +51,16 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
+
+
+
+# Galaga_Wars_game
+
+|file name|hardware|project|description|
+|------|------|-----|-----|  
+|[test_lift.ino][dill5]|[DCMD-400-A]|전기차충전로봇| 충전로봇의 lift up&down driver (pwm)|
+
+<img width="300" alt="화면 캡처 2023-03-13 233349" src="https://user-images.githubusercontent.com/84003327/224745028-809b1c0e-6edb-4bf9-9243-681bac68f0b6.png">
+
+
+
