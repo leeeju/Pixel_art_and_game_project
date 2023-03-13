@@ -58,7 +58,7 @@ cv2.destroyAllWindows()
 
 |file name|Language|project|description|
 |------|------|-----|-----|  
-|Galaga_Wars.py|python|Pixel|game|
+|Galaga_Wars.py|python|Pixel|Game|
 
 <img width="300" alt="화면 캡처 2023-03-13 233349" src="https://user-images.githubusercontent.com/84003327/224745028-809b1c0e-6edb-4bf9-9243-681bac68f0b6.png">
 
