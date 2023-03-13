@@ -18,5 +18,4 @@ Qt5와 Open_CV기초 숙달 및 Object Detection, Line tracking기술의 Basic�
 
 ###  Ⅱ성과 (사진첨부&영상첨부)
 
-###  Ⅱ성과 (사진첨부)
 ![KakaoTalk_20230313_205153991](https://user-images.githubusercontent.com/84003327/224695583-de78c9ae-b51a-4ef4-a656-8111dbae44f2.jpg)
