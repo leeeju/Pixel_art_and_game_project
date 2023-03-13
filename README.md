@@ -9,7 +9,7 @@
 #### 팀원 : 이주현
   
   - 연구기록 YouTube -- > https://www.youtube.com/watch?v=tAKOi-Y7-uI
-  - 
+  
   ![github contribution grid snake animation](https://raw.githubusercontent.com/borongyuan/borongyuan/output/github-contribution-grid-snake.svg)
 ##  프로젝트 목적
 ###  Ⅰ배경 
