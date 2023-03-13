@@ -56,9 +56,9 @@ cv2.destroyAllWindows()
 
 # Galaga_Wars_game
 
-|file name|hardware|project|description|
+|file name|Language|project|description|
 |------|------|-----|-----|  
-|[test_lift.ino][dill5]|[DCMD-400-A]|전기차충전로봇| 충전로봇의 lift up&down driver (pwm)|
+|Galaga_Wars.py|python|Pixel|game|
 
 <img width="300" alt="화면 캡처 2023-03-13 233349" src="https://user-images.githubusercontent.com/84003327/224745028-809b1c0e-6edb-4bf9-9243-681bac68f0b6.png">
 
